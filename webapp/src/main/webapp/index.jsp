@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Join as a first time New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
-    <p>Check through ansible </p>
+    <p>Check through ansible 2nd edit </p>
 
     <hr>
      
