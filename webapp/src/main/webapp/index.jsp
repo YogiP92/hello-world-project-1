@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Join as a first time New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
-    <p>Checking if complete pipeline is working</p>
+    <p>Removed the line checking!!!</p>
 
     <hr>
      
